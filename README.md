@@ -32,6 +32,7 @@ Os documentos desejáveis seguem abaixo, especificados por nome, que dá acesso 
 - [Gerenciamento dos Recursos Humanos](https://github.com/RodrigoAguiar0/Plantaplus/tree/master/Gerenciamento%20dos%20Recursos%20Humanos)
 - [Gerenciamento dos Riscos](https://github.com/RodrigoAguiar0/Plantaplus/tree/master/Gerenciamento%20dos%20Riscos)
 - [Gerenciamento das Comunicações](https://github.com/RodrigoAguiar0/Plantaplus/tree/master/Gerencimaneto%20das%20Comunica%C3%A7%C3%B5es)
+- [PMBoK e SCRUM](https://github.com/RodrigoAguiar0/Plantaplus/tree/master/PMBoK%20e%20Scrum)
 
 ### Outras informações
 Outras informações como localização, remuneração, orçamento, etc... podem ser encontrados no plano de integração do Projeto.
